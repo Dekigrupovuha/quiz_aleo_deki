@@ -1,0 +1,13 @@
+// The program input for wright_quiz/src/main.leo
+[add_question]
+new_note: String = String { data0: 1231234u128,data1: 12312313u128, data2: 0u128, data3: 0u128, data4: 0u128, data5: 0u128, data6: 0u128, data7: 0u128  };
+answer: u8 = 1u8;
+q_id: u8 = 1u8;
+
+[take_quiz]
+user_address: address = aleo1875942p6nxagsxrd4kj0cx3yeg8undscgc60vlvsazfdudpxeggqp8hr5v;
+answer: u8 = 1u8;
+q_id: u8 = 1u8;
+
+[request_score]
+user_address: address = aleo1875942p6nxagsxrd4kj0cx3yeg8undscgc60vlvsazfdudpxeggqp8hr5v;

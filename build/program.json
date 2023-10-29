@@ -1,0 +1,10 @@
+{
+    "program": "wright_quiz.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkpBJ1sVfjEa9LyFXeyJZtXYJaaAdhXB5PMD18pG46DH4qd",
+        "address": "aleo1875942p6nxagsxrd4kj0cx3yeg8undscgc60vlvsazfdudpxeggqp8hr5v"
+    },
+    "license": "MIT"
+}
