@@ -9,7 +9,7 @@
 
 ## Overview
 
-`wright_quiz` is a smart contract built on the Aleo platform, which provides a basic quiz game functionality. The contract allows users to add questions to a quiz, take the quiz, and then request their score.
+`deki_quiz` is a smart contract built on the Aleo platform, which provides a basic quiz game functionality. The contract allows users to add questions to a quiz, take the quiz, and then request their score.
 
 ## Structures
 
