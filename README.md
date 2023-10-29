@@ -70,4 +70,4 @@ user_address: address = aleo1875942p6nxagsxrd4kj0cx3yeg8undscgc60vlvsazfdudpxegg
 
 ## Conclusion
 
-`wright_quiz` is a basic quiz game on the Aleo platform. Users can interact with the contract by adding questions, taking the quiz, and requesting their score. This contract provides a simple demonstration of Aleo's capabilities for building decentralized applications with user interactions.
+`deki_quiz` is a basic quiz game on the Aleo platform. Users can interact with the contract by adding questions, taking the quiz, and requesting their score. This contract provides a simple demonstration of Aleo's capabilities for building decentralized applications with user interactions.
