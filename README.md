@@ -2,7 +2,7 @@
 
 # Notepad Smart Contract on Aleo
 [![Follow me on Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/DekiDima)
-[![Discord: @dmitrydeki](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](@dmitrydeki)
+[Discord: dmitrydeki]
 [![Me on Telegram](https://img.shields.io/badge/Telegram-%235865F2.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dmitrydeki)
 
 # deki_quiz: A Simple Quiz Smart Contract on Aleo
